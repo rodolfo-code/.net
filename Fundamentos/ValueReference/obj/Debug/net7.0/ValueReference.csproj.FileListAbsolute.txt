@@ -1,0 +1,15 @@
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\ValueReference\bin\Debug\net7.0\ValueReference.exe
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\ValueReference\bin\Debug\net7.0\ValueReference.deps.json
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\ValueReference\bin\Debug\net7.0\ValueReference.runtimeconfig.json
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\ValueReference\bin\Debug\net7.0\ValueReference.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\ValueReference\bin\Debug\net7.0\ValueReference.pdb
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\ValueReference\obj\Debug\net7.0\ValueReference.csproj.AssemblyReference.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\ValueReference\obj\Debug\net7.0\ValueReference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\ValueReference\obj\Debug\net7.0\ValueReference.AssemblyInfoInputs.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\ValueReference\obj\Debug\net7.0\ValueReference.AssemblyInfo.cs
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\ValueReference\obj\Debug\net7.0\ValueReference.csproj.CoreCompileInputs.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\ValueReference\obj\Debug\net7.0\ValueReference.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\ValueReference\obj\Debug\net7.0\refint\ValueReference.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\ValueReference\obj\Debug\net7.0\ValueReference.pdb
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\ValueReference\obj\Debug\net7.0\ValueReference.genruntimeconfig.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\ValueReference\obj\Debug\net7.0\ref\ValueReference.dll

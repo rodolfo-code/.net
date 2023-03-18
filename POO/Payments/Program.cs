@@ -4,21 +4,24 @@
     {
         static void Main(string[] args)
         {
-
+            var pagamentoBoleto = new PagamentoBoleto();
+            pagamentoBoleto.Pagar();
+            pagamentoBoleto.numeroBoleto = "1234";
         }
     }
 
-    class Payment
+    class Pagamento
     {
-        DateTime Vencimento;
-        void Pagar()
-        {
-            ConsultarSaldoCartao(12313);
-        }
-
-        private void ConsultarSaldoCartao(int numero)
+        public DateTime Vencimento;
+        public void Pagar()
         {
 
         }
+
+    }
+
+    class PagamentoBoleto : Pagamento
+    {
+        public string numeroBoleto;
     }
 }

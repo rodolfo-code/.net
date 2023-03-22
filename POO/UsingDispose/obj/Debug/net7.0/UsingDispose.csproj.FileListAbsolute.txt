@@ -1,0 +1,15 @@
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\POO\UsingDispose\bin\Debug\net7.0\UsingDispose.exe
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\POO\UsingDispose\bin\Debug\net7.0\UsingDispose.deps.json
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\POO\UsingDispose\bin\Debug\net7.0\UsingDispose.runtimeconfig.json
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\POO\UsingDispose\bin\Debug\net7.0\UsingDispose.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\POO\UsingDispose\bin\Debug\net7.0\UsingDispose.pdb
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\POO\UsingDispose\obj\Debug\net7.0\UsingDispose.csproj.AssemblyReference.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\POO\UsingDispose\obj\Debug\net7.0\UsingDispose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\POO\UsingDispose\obj\Debug\net7.0\UsingDispose.AssemblyInfoInputs.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\POO\UsingDispose\obj\Debug\net7.0\UsingDispose.AssemblyInfo.cs
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\POO\UsingDispose\obj\Debug\net7.0\UsingDispose.csproj.CoreCompileInputs.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\POO\UsingDispose\obj\Debug\net7.0\UsingDispose.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\POO\UsingDispose\obj\Debug\net7.0\refint\UsingDispose.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\POO\UsingDispose\obj\Debug\net7.0\UsingDispose.pdb
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\POO\UsingDispose\obj\Debug\net7.0\UsingDispose.genruntimeconfig.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\POO\UsingDispose\obj\Debug\net7.0\ref\UsingDispose.dll

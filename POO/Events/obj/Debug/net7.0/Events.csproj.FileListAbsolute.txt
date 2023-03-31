@@ -1,0 +1,15 @@
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\POO\Events\bin\Debug\net7.0\Events.exe
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\POO\Events\bin\Debug\net7.0\Events.deps.json
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\POO\Events\bin\Debug\net7.0\Events.runtimeconfig.json
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\POO\Events\bin\Debug\net7.0\Events.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\POO\Events\bin\Debug\net7.0\Events.pdb
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\POO\Events\obj\Debug\net7.0\Events.csproj.AssemblyReference.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\POO\Events\obj\Debug\net7.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\POO\Events\obj\Debug\net7.0\Events.AssemblyInfoInputs.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\POO\Events\obj\Debug\net7.0\Events.AssemblyInfo.cs
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\POO\Events\obj\Debug\net7.0\Events.csproj.CoreCompileInputs.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\POO\Events\obj\Debug\net7.0\Events.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\POO\Events\obj\Debug\net7.0\refint\Events.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\POO\Events\obj\Debug\net7.0\Events.pdb
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\POO\Events\obj\Debug\net7.0\Events.genruntimeconfig.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\POO\Events\obj\Debug\net7.0\ref\Events.dll

@@ -1,5 +1,6 @@
 ﻿using Blog.Data;
 using Blog.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace Blog
 {
@@ -7,19 +8,62 @@ namespace Blog
     {
         static void Main(string[] args)
         {
-            using (var context = new BlogDataContext())
-            {
-                // var tag = new Tag { Name = "CREATE", Slug = "create" };
-                // context.Tags.Add(tag);
-                // context.SaveChanges();
+            using var context = new BlogDataContext();
+            // var user = new User
+            // {
+            //     Name = "Rodolfo Oliveira",
+            //     Slug = "rodolfooliveira",
+            //     Email = "rod.vgo@gmail.com",
+            //     Bio = "2x Microsoft MVP",
+            //     Image = "https://balta.io",
+            //     PasswordHash = "123456"
+            // };
 
-                var tag = context.Tags.FirstOrDefault(x => x.Id == 1);
-                tag.Name = ".NET";
-                tag.Slug = "dotnet";
+            // var category = new Category
+            // {
+            //     Name = "Backend",
+            //     Slug = "backend"
+            // };
 
-                context.Update(tag);
-                context.SaveChanges();
-            }
+            // var post = new Post
+            // {
+            //     Author = user,
+            //     Category = category,
+            //     Body = "<p>Hello world</p>",
+            //     Slug = "comecando-com-ef-core",
+            //     Summary = "Neste artigo vamos aprender EF Core",
+            //     Title = "Começando com EF Core",
+            //     CreateDate = DateTime.Now,
+            //     LastUpdateDate = DateTime.Now,
+            // };
+
+            // context.Posts.Add(post);
+            // context.SaveChanges();
+
+            // var posts = context
+            //     .Posts
+            //     .AsNoTracking()
+            //     .Include(x => x.Author)
+            //     .Include(x => x.Category)
+            //     .OrderByDescending(x => x.LastUpdateDate)
+            //     .ToList();
+
+            // foreach (var post in posts)
+            // {
+            //     Console.WriteLine($"{post.Title} escrito por {post.Author?.Name} em {post.Category?.Name}");
+            // }
+
+            var posts = context
+                .Posts
+                // .AsNoTracking()
+                .Include(x => x.Author)
+                .Include(x => x.Category)
+                .OrderByDescending(x => x.LastUpdateDate)
+                .FirstOrDefault();
+
+            posts.Author.Name = "Gumercindo";
+            context.Posts.Update(posts);
+            context.SaveChanges();
         }
     }
 }

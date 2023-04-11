@@ -16,8 +16,7 @@ namespace Blog.Data
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
             options
-                .UseSqlServer("Server=[::1],1433;Database=Blog;User ID=sa;Password=Nj0q4$Fr1fa7@9aksedQUOp;Trusted_Connection=False; TrustServerCertificate=True;");
-            // .UseSqlServer("Server=[::1],1433;Database=FluentBlog;User ID=sa;Password=Nj0q4$Fr1fa7@9aksedQUOp;Trusted_Connection=False; TrustServerCertificate=True;");
+            .UseSqlServer("Server=[::1],1433;Database=FluentBlog;User ID=sa;Password=Nj0q4$Fr1fa7@9aksedQUOp;Trusted_Connection=False; TrustServerCertificate=True;");
             options.LogTo(Console.WriteLine);
         }
     }

@@ -1,4 +1,5 @@
 using Blog.Models;
+using FluentBlog.Data.Mappings;
 using Microsoft.EntityFrameworkCore;
 
 namespace Blog.Data
@@ -18,6 +19,13 @@ namespace Blog.Data
             options
             .UseSqlServer("Server=[::1],1433;Database=FluentBlog;User ID=sa;Password=Nj0q4$Fr1fa7@9aksedQUOp;Trusted_Connection=False; TrustServerCertificate=True;");
             options.LogTo(Console.WriteLine);
+        }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.ApplyConfiguration(new CategoryMap());
+            modelBuilder.ApplyConfiguration(new UserMap());
+            modelBuilder.ApplyConfiguration(new PostMap());
         }
     }
 }

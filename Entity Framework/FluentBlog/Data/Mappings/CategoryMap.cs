@@ -32,6 +32,10 @@ namespace FluentBlog.Data.Mappings
                 // .HasColumnName("Slug")
                 .HasColumnType("VARCHAR")
                 .HasMaxLength(80);
+
+            // Índices
+            builder.HasIndex(x => x.Slug, "IX_Category_Slug")
+                .IsUnique();
         }
     }
 }

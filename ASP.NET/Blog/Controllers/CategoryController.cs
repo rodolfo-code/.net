@@ -33,6 +33,7 @@ namespace Blog.Controllers
                 return NotFound();
             }
 
+
             return Ok(category);
         }
 

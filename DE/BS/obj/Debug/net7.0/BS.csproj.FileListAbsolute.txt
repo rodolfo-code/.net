@@ -1,0 +1,15 @@
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\DE\BS\bin\Debug\net7.0\BS.exe
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\DE\BS\bin\Debug\net7.0\BS.deps.json
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\DE\BS\bin\Debug\net7.0\BS.runtimeconfig.json
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\DE\BS\bin\Debug\net7.0\BS.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\DE\BS\bin\Debug\net7.0\BS.pdb
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\DE\BS\obj\Debug\net7.0\BS.csproj.AssemblyReference.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\DE\BS\obj\Debug\net7.0\BS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\DE\BS\obj\Debug\net7.0\BS.AssemblyInfoInputs.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\DE\BS\obj\Debug\net7.0\BS.AssemblyInfo.cs
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\DE\BS\obj\Debug\net7.0\BS.csproj.CoreCompileInputs.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\DE\BS\obj\Debug\net7.0\BS.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\DE\BS\obj\Debug\net7.0\refint\BS.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\DE\BS\obj\Debug\net7.0\BS.pdb
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\DE\BS\obj\Debug\net7.0\BS.genruntimeconfig.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\DE\BS\obj\Debug\net7.0\ref\BS.dll

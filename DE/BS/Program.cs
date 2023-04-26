@@ -7,10 +7,18 @@
             Console.WriteLine("Funfou");
             int[] vetor = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 };
 
+            int[] arr = new int[10];
+
             Console.WriteLine(vetor.Length - 1);
 
-            var numero = Search(vetor, 0, vetor.Length - 1, 20);
-            Console.WriteLine($"Numero encontrado: {numero}");
+            for (int i = 0; i < 10; i++)
+            {
+                arr[i] = i;
+            }
+
+            // var node = new LinkedListNode(2);
+
+            Console.WriteLine(arr.Length);
         }
 
         static public int Search(int[] array, int first, int last, int num)

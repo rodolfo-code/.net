@@ -6,6 +6,8 @@
         {
             Char teste = (char)195;
 
+            Byte n = 255;
+
             Byte str = (byte)97;
 
 

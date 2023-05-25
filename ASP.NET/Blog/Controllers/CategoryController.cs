@@ -1,5 +1,6 @@
 ﻿using Blog.Data;
 using Blog.Models;
+using Blog.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -50,19 +51,23 @@ namespace Blog.Controllers
         }
 
         [HttpPost("v1/categories")]
-        public async Task<IActionResult> PostAsync([FromBody] Category category)
+        public async Task<IActionResult> PostAsync([FromBody] EditorCategoryViewModel model)
         {
             try
             {
+                var category = new Category
+                {
+                    Id = 0,
+                    Name = model.Name,
+                    Slug = model.Slug
+                };
+
                 await _context.Categories.AddAsync(category);
                 await _context.SaveChangesAsync();
 
                 return Created($"v1/categories/{category.Id}", category);
             }
-            catch (DbUpdateException ex)
-            {
-                return StatusCode(500, "05XE9 - Não foi possivel incluir a categoria");
-            }
+            
             catch (Exception ex)
             {
                 return StatusCode(500, "05XE10 - Falha intena no servidor");
@@ -71,23 +76,23 @@ namespace Blog.Controllers
         }
 
         [HttpPut("v1/categories/{id:int}")]
-        public async Task<IActionResult> PutAsync([FromRoute] int id, [FromBody] Category category)
+        public async Task<IActionResult> PutAsync([FromRoute] int id, [FromBody] EditorCategoryViewModel model)
         {
             try
             {
                 var findCategory = _context.Categories.FirstOrDefault(x => x.Id == id);
-                if (category == null)
+                if (findCategory == null)
                 {
                     return NotFound();
                 }
 
-                findCategory.Name = category.Name;
-                findCategory.Slug = category.Slug;
+                findCategory.Name = model.Name;
+                findCategory.Slug = model.Slug;
 
-                _context.Categories.Update(category);
+                _context.Categories.Update(findCategory);
                 await _context.SaveChangesAsync();
 
-                return Ok(category);
+                return Ok(model);
             }
             catch (DbUpdateException ex)
             {

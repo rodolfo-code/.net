@@ -53,6 +53,8 @@ namespace Blog.Controllers
         [HttpPost("v1/categories")]
         public async Task<IActionResult> PostAsync([FromBody] EditorCategoryViewModel model)
         {
+            if(!ModelState.IsValid) 
+                return BadRequest();
             try
             {
                 var category = new Category
@@ -67,7 +69,10 @@ namespace Blog.Controllers
 
                 return Created($"v1/categories/{category.Id}", category);
             }
-            
+            catch (DbUpdateException ex)
+            {
+                return StatusCode(500, "05XE9 - Não foi possivel incluir a categoria");
+            }
             catch (Exception ex)
             {
                 return StatusCode(500, "05XE10 - Falha intena no servidor");

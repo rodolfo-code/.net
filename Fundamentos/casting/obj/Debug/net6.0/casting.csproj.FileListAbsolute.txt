@@ -1,0 +1,15 @@
+/home/rodolfodev/Aceleração/C#/fundamentos/casting/bin/Debug/net6.0/casting
+/home/rodolfodev/Aceleração/C#/fundamentos/casting/bin/Debug/net6.0/casting.deps.json
+/home/rodolfodev/Aceleração/C#/fundamentos/casting/bin/Debug/net6.0/casting.runtimeconfig.json
+/home/rodolfodev/Aceleração/C#/fundamentos/casting/bin/Debug/net6.0/casting.dll
+/home/rodolfodev/Aceleração/C#/fundamentos/casting/bin/Debug/net6.0/ref/casting.dll
+/home/rodolfodev/Aceleração/C#/fundamentos/casting/bin/Debug/net6.0/casting.pdb
+/home/rodolfodev/Aceleração/C#/fundamentos/casting/obj/Debug/net6.0/casting.csproj.AssemblyReference.cache
+/home/rodolfodev/Aceleração/C#/fundamentos/casting/obj/Debug/net6.0/casting.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodolfodev/Aceleração/C#/fundamentos/casting/obj/Debug/net6.0/casting.AssemblyInfoInputs.cache
+/home/rodolfodev/Aceleração/C#/fundamentos/casting/obj/Debug/net6.0/casting.AssemblyInfo.cs
+/home/rodolfodev/Aceleração/C#/fundamentos/casting/obj/Debug/net6.0/casting.csproj.CoreCompileInputs.cache
+/home/rodolfodev/Aceleração/C#/fundamentos/casting/obj/Debug/net6.0/casting.dll
+/home/rodolfodev/Aceleração/C#/fundamentos/casting/obj/Debug/net6.0/ref/casting.dll
+/home/rodolfodev/Aceleração/C#/fundamentos/casting/obj/Debug/net6.0/casting.pdb
+/home/rodolfodev/Aceleração/C#/fundamentos/casting/obj/Debug/net6.0/casting.genruntimeconfig.cache

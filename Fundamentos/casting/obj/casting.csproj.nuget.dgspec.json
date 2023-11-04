@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/rodolfodev/Aceleração/C#/fundamentos/casting/casting.csproj": {}
+    "C:\\Users\\RodolfoOliveira\\Desktop\\Repos\\.NET\\Fundamentos\\casting\\casting.csproj": {}
   },
   "projects": {
-    "/home/rodolfodev/Aceleração/C#/fundamentos/casting/casting.csproj": {
+    "C:\\Users\\RodolfoOliveira\\Desktop\\Repos\\.NET\\Fundamentos\\casting\\casting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rodolfodev/Aceleração/C#/fundamentos/casting/casting.csproj",
+        "projectUniqueName": "C:\\Users\\RodolfoOliveira\\Desktop\\Repos\\.NET\\Fundamentos\\casting\\casting.csproj",
         "projectName": "casting",
-        "projectPath": "/home/rodolfodev/Aceleração/C#/fundamentos/casting/casting.csproj",
-        "packagesPath": "/home/rodolfodev/.nuget/packages/",
-        "outputPath": "/home/rodolfodev/Aceleração/C#/fundamentos/casting/obj/",
+        "projectPath": "C:\\Users\\RodolfoOliveira\\Desktop\\Repos\\.NET\\Fundamentos\\casting\\casting.csproj",
+        "packagesPath": "C:\\Users\\RodolfoOliveira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RodolfoOliveira\\Desktop\\Repos\\.NET\\Fundamentos\\casting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/rodolfodev/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\RodolfoOliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,16 +45,35 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.123/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

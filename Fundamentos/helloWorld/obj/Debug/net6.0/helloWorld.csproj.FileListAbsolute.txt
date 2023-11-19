@@ -1,0 +1,15 @@
+/home/rodolfodev/Aceleração/C#/helloWorld/bin/Debug/net6.0/helloWorld
+/home/rodolfodev/Aceleração/C#/helloWorld/bin/Debug/net6.0/helloWorld.deps.json
+/home/rodolfodev/Aceleração/C#/helloWorld/bin/Debug/net6.0/helloWorld.runtimeconfig.json
+/home/rodolfodev/Aceleração/C#/helloWorld/bin/Debug/net6.0/helloWorld.dll
+/home/rodolfodev/Aceleração/C#/helloWorld/bin/Debug/net6.0/ref/helloWorld.dll
+/home/rodolfodev/Aceleração/C#/helloWorld/bin/Debug/net6.0/helloWorld.pdb
+/home/rodolfodev/Aceleração/C#/helloWorld/obj/Debug/net6.0/helloWorld.csproj.AssemblyReference.cache
+/home/rodolfodev/Aceleração/C#/helloWorld/obj/Debug/net6.0/helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodolfodev/Aceleração/C#/helloWorld/obj/Debug/net6.0/helloWorld.AssemblyInfoInputs.cache
+/home/rodolfodev/Aceleração/C#/helloWorld/obj/Debug/net6.0/helloWorld.AssemblyInfo.cs
+/home/rodolfodev/Aceleração/C#/helloWorld/obj/Debug/net6.0/helloWorld.csproj.CoreCompileInputs.cache
+/home/rodolfodev/Aceleração/C#/helloWorld/obj/Debug/net6.0/helloWorld.dll
+/home/rodolfodev/Aceleração/C#/helloWorld/obj/Debug/net6.0/ref/helloWorld.dll
+/home/rodolfodev/Aceleração/C#/helloWorld/obj/Debug/net6.0/helloWorld.pdb
+/home/rodolfodev/Aceleração/C#/helloWorld/obj/Debug/net6.0/helloWorld.genruntimeconfig.cache

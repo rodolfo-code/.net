@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "sUNqrNNyVhvCHjS1HnqjY1bhuNBARjxGa4Ee8wsDILtwwVT90d69RFm2B5LFRF/YIdMwOZNQgLfY3l/57G3WOA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\RodolfoOliveira\\Desktop\\Repos\\.NET\\ASP.NET\\hello\\helloWorld\\helloWorld.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Não é possível encontrar o projeto 'C:\\Users\\RodolfoOliveira\\Desktop\\Repos\\.NET\\ASP.NET\\hello\\helloWorld\\helloWorld.Test'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
+      "libraryId": "C:\\Users\\RodolfoOliveira\\Desktop\\Repos\\.NET\\ASP.NET\\hello\\helloWorld\\helloWorld.Test",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

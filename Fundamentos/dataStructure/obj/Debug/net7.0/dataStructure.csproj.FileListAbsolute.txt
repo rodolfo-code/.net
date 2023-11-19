@@ -1,0 +1,15 @@
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\dataStructure\bin\Debug\net7.0\dataStructure.exe
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\dataStructure\bin\Debug\net7.0\dataStructure.deps.json
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\dataStructure\bin\Debug\net7.0\dataStructure.runtimeconfig.json
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\dataStructure\bin\Debug\net7.0\dataStructure.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\dataStructure\bin\Debug\net7.0\dataStructure.pdb
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\dataStructure\obj\Debug\net7.0\dataStructure.csproj.AssemblyReference.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\dataStructure\obj\Debug\net7.0\dataStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\dataStructure\obj\Debug\net7.0\dataStructure.AssemblyInfoInputs.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\dataStructure\obj\Debug\net7.0\dataStructure.AssemblyInfo.cs
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\dataStructure\obj\Debug\net7.0\dataStructure.csproj.CoreCompileInputs.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\dataStructure\obj\Debug\net7.0\dataStructure.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\dataStructure\obj\Debug\net7.0\refint\dataStructure.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\dataStructure\obj\Debug\net7.0\dataStructure.pdb
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\dataStructure\obj\Debug\net7.0\dataStructure.genruntimeconfig.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\dataStructure\obj\Debug\net7.0\ref\dataStructure.dll

@@ -1,0 +1,15 @@
+/home/rodolfodev/Aceleração/C#/fundamentos/estrutura-de-controle/bin/Debug/net6.0/estrutura-de-controle
+/home/rodolfodev/Aceleração/C#/fundamentos/estrutura-de-controle/bin/Debug/net6.0/estrutura-de-controle.deps.json
+/home/rodolfodev/Aceleração/C#/fundamentos/estrutura-de-controle/bin/Debug/net6.0/estrutura-de-controle.runtimeconfig.json
+/home/rodolfodev/Aceleração/C#/fundamentos/estrutura-de-controle/bin/Debug/net6.0/estrutura-de-controle.dll
+/home/rodolfodev/Aceleração/C#/fundamentos/estrutura-de-controle/bin/Debug/net6.0/ref/estrutura-de-controle.dll
+/home/rodolfodev/Aceleração/C#/fundamentos/estrutura-de-controle/bin/Debug/net6.0/estrutura-de-controle.pdb
+/home/rodolfodev/Aceleração/C#/fundamentos/estrutura-de-controle/obj/Debug/net6.0/estrutura-de-controle.csproj.AssemblyReference.cache
+/home/rodolfodev/Aceleração/C#/fundamentos/estrutura-de-controle/obj/Debug/net6.0/estrutura-de-controle.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodolfodev/Aceleração/C#/fundamentos/estrutura-de-controle/obj/Debug/net6.0/estrutura-de-controle.AssemblyInfoInputs.cache
+/home/rodolfodev/Aceleração/C#/fundamentos/estrutura-de-controle/obj/Debug/net6.0/estrutura-de-controle.AssemblyInfo.cs
+/home/rodolfodev/Aceleração/C#/fundamentos/estrutura-de-controle/obj/Debug/net6.0/estrutura-de-controle.csproj.CoreCompileInputs.cache
+/home/rodolfodev/Aceleração/C#/fundamentos/estrutura-de-controle/obj/Debug/net6.0/estrutura-de-controle.dll
+/home/rodolfodev/Aceleração/C#/fundamentos/estrutura-de-controle/obj/Debug/net6.0/ref/estrutura-de-controle.dll
+/home/rodolfodev/Aceleração/C#/fundamentos/estrutura-de-controle/obj/Debug/net6.0/estrutura-de-controle.pdb
+/home/rodolfodev/Aceleração/C#/fundamentos/estrutura-de-controle/obj/Debug/net6.0/estrutura-de-controle.genruntimeconfig.cache

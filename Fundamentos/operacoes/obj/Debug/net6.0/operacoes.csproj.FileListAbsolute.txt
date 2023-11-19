@@ -1,0 +1,15 @@
+/home/rodolfodev/Aceleração/operacoes/bin/Debug/net6.0/operacoes
+/home/rodolfodev/Aceleração/operacoes/bin/Debug/net6.0/operacoes.deps.json
+/home/rodolfodev/Aceleração/operacoes/bin/Debug/net6.0/operacoes.runtimeconfig.json
+/home/rodolfodev/Aceleração/operacoes/bin/Debug/net6.0/operacoes.dll
+/home/rodolfodev/Aceleração/operacoes/bin/Debug/net6.0/ref/operacoes.dll
+/home/rodolfodev/Aceleração/operacoes/bin/Debug/net6.0/operacoes.pdb
+/home/rodolfodev/Aceleração/operacoes/obj/Debug/net6.0/operacoes.csproj.AssemblyReference.cache
+/home/rodolfodev/Aceleração/operacoes/obj/Debug/net6.0/operacoes.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodolfodev/Aceleração/operacoes/obj/Debug/net6.0/operacoes.AssemblyInfoInputs.cache
+/home/rodolfodev/Aceleração/operacoes/obj/Debug/net6.0/operacoes.AssemblyInfo.cs
+/home/rodolfodev/Aceleração/operacoes/obj/Debug/net6.0/operacoes.csproj.CoreCompileInputs.cache
+/home/rodolfodev/Aceleração/operacoes/obj/Debug/net6.0/operacoes.dll
+/home/rodolfodev/Aceleração/operacoes/obj/Debug/net6.0/ref/operacoes.dll
+/home/rodolfodev/Aceleração/operacoes/obj/Debug/net6.0/operacoes.pdb
+/home/rodolfodev/Aceleração/operacoes/obj/Debug/net6.0/operacoes.genruntimeconfig.cache

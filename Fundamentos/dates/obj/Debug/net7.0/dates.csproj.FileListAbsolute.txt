@@ -1,0 +1,15 @@
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\dates\bin\Debug\net7.0\dates.exe
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\dates\bin\Debug\net7.0\dates.deps.json
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\dates\bin\Debug\net7.0\dates.runtimeconfig.json
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\dates\bin\Debug\net7.0\dates.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\dates\bin\Debug\net7.0\dates.pdb
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\dates\obj\Debug\net7.0\dates.csproj.AssemblyReference.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\dates\obj\Debug\net7.0\dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\dates\obj\Debug\net7.0\dates.AssemblyInfoInputs.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\dates\obj\Debug\net7.0\dates.AssemblyInfo.cs
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\dates\obj\Debug\net7.0\dates.csproj.CoreCompileInputs.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\dates\obj\Debug\net7.0\dates.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\dates\obj\Debug\net7.0\refint\dates.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\dates\obj\Debug\net7.0\dates.pdb
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\dates\obj\Debug\net7.0\dates.genruntimeconfig.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\dates\obj\Debug\net7.0\ref\dates.dll

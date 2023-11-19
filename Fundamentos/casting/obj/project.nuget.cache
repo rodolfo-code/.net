@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cMYTPVKFzUJ+8xT9dGHZ+dWcGZrBTo/RvdTCfroIBr98nHkTJqq/QPzWlz8F88uboSsH3+nSmxQZRO/9vnHByA==",
+  "dgSpecHash": "AkOnHjV4QfE+d2M+NzXqPPiO5bC5OWOwOk+BgYpSaeRNC8L5KJOmQyqxeV41t/haNYyyyYoyn/+zjDJ0lqohcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RodolfoOliveira\\Desktop\\Repos\\.NET\\Fundamentos\\casting\\casting.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\RodolfoOliveira\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\RodolfoOliveira\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\RodolfoOliveira\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\RodolfoOliveira\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
-  ],
+  "projectFilePath": "/home/rodolfodev/Aceleração/C#/fundamentos/casting/casting.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

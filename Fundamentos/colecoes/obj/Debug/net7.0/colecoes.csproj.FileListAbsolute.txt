@@ -1,0 +1,15 @@
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\colecoes\bin\Debug\net7.0\colecoes.exe
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\colecoes\bin\Debug\net7.0\colecoes.deps.json
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\colecoes\bin\Debug\net7.0\colecoes.runtimeconfig.json
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\colecoes\bin\Debug\net7.0\colecoes.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\colecoes\bin\Debug\net7.0\colecoes.pdb
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\colecoes\obj\Debug\net7.0\colecoes.csproj.AssemblyReference.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\colecoes\obj\Debug\net7.0\colecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\colecoes\obj\Debug\net7.0\colecoes.AssemblyInfoInputs.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\colecoes\obj\Debug\net7.0\colecoes.AssemblyInfo.cs
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\colecoes\obj\Debug\net7.0\colecoes.csproj.CoreCompileInputs.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\colecoes\obj\Debug\net7.0\colecoes.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\colecoes\obj\Debug\net7.0\refint\colecoes.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\colecoes\obj\Debug\net7.0\colecoes.pdb
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\colecoes\obj\Debug\net7.0\colecoes.genruntimeconfig.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\.NET\Fundamentos\colecoes\obj\Debug\net7.0\ref\colecoes.dll

@@ -62,7 +62,7 @@ public class ContactController : ControllerBase
         {
             _service.deletePerson(PersonId);
             return NoContent();
-            }
+        }
         catch (Exception ex)
         {
             return BadRequest(new { message = ex.Message.ToString() });

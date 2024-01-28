@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "61v53TAg4v/dRNPZlaJ2pmLbjoaWS0Y3A3rUXSWF8C+uM/C7opoklDb8wY8SwuolGhoC/37clHdowC2inqBpYA==",
+  "success": true,
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu-22.04\\home\\rodolfodev\\Aceleração\\C#\\fundamentos\\send-email\\send-email.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RodolfoOliveira\\.nuget\\packages\\awssdk.core\\3.7.302\\awssdk.core.3.7.302.nupkg.sha512",
+    "C:\\Users\\RodolfoOliveira\\.nuget\\packages\\awssdk.simpleemail\\3.7.300.41\\awssdk.simpleemail.3.7.300.41.nupkg.sha512",
+    "C:\\Users\\RodolfoOliveira\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\RodolfoOliveira\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\RodolfoOliveira\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\7.0.0\\microsoft.extensions.configuration.fileextensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\RodolfoOliveira\\.nuget\\packages\\microsoft.extensions.configuration.json\\7.0.0\\microsoft.extensions.configuration.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\RodolfoOliveira\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\RodolfoOliveira\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\7.0.0\\microsoft.extensions.fileproviders.physical.7.0.0.nupkg.sha512",
+    "C:\\Users\\RodolfoOliveira\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\7.0.0\\microsoft.extensions.filesystemglobbing.7.0.0.nupkg.sha512",
+    "C:\\Users\\RodolfoOliveira\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\RodolfoOliveira\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\RodolfoOliveira\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

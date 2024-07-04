@@ -13,3 +13,4 @@ C:\Users\RodolfoOliveira\Desktop\Repos\.net\Petfolio\Petfolio.Application\obj\De
 C:\Users\RodolfoOliveira\Desktop\Repos\.net\Petfolio\Petfolio.Application\obj\Debug\net8.0\refint\Petfolio.Application.dll
 C:\Users\RodolfoOliveira\Desktop\Repos\.net\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.pdb
 C:\Users\RodolfoOliveira\Desktop\Repos\.net\Petfolio\Petfolio.Application\obj\Debug\net8.0\ref\Petfolio.Application.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\.net\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.sourcelink.json

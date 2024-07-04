@@ -34,3 +34,4 @@ C:\Users\RodolfoOliveira\Desktop\Repos\.net\Petfolio\Petfolio.API\obj\Debug\net8
 C:\Users\RodolfoOliveira\Desktop\Repos\.net\Petfolio\Petfolio.API\obj\Debug\net8.0\Petfolio.API.pdb
 C:\Users\RodolfoOliveira\Desktop\Repos\.net\Petfolio\Petfolio.API\obj\Debug\net8.0\Petfolio.API.genruntimeconfig.cache
 C:\Users\RodolfoOliveira\Desktop\Repos\.net\Petfolio\Petfolio.API\obj\Debug\net8.0\ref\Petfolio.API.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\.net\Petfolio\Petfolio.API\obj\Debug\net8.0\Petfolio.API.sourcelink.json
